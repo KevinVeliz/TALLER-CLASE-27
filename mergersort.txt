@@ -1,0 +1,4 @@
+Elementos originales: |11||18||2||14||2||33|
+Elementos ordenados: |0||2||2||11||14||18|
+Elementos originales: |23||31||34||3||12||19|
+Elementos ordenados: |3||12||19||23||31||33|
